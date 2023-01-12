@@ -12,3 +12,4 @@ setup(
 
     py_modules=['my_pip_package'],
 )
+

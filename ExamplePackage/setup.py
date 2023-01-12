@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='ExamplePackage-nz3424',
+setup(name='ExamplePackage_nz3424',
       version='1.0',
       description='An example package to test before putting in actual modules',
       author='Nick Zhu',

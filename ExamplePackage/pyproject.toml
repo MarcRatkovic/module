@@ -3,7 +3,7 @@
 
 [project]
 name = "example_package_nz3424"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Nick Zhu", email="nz3424@princeton.edu" },
 ]

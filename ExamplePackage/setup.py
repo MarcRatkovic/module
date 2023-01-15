@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='ExamplePackage_nz3424',
-      version='1.0',
+      version='0.0.2',
       description='An example package to test before putting in actual modules',
       author='Nick Zhu',
       author_email='nz3424@princeton.edu',
